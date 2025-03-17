@@ -52,3 +52,4 @@ venv.bak/
 .coverage
 htmlcov/
 .pytest_cache/
+sratoolkit.tar.gz
